@@ -1,0 +1,17 @@
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.exe
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.deps.json
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.runtimeconfig.json
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.dll
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\bin\Debug\net6.0-windows\CalculadoraIMC.pdb
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.AssemblyReference.cache
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.Form1.resources
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.GenerateResource.cache
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfoInputs.cache
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.AssemblyInfo.cs
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.csproj.CoreCompileInputs.cache
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.dll
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\refint\CalculadoraIMC.dll
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.pdb
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\CalculadoraIMC.genruntimeconfig.cache
+C:\Users\josue\Desktop\CalculadoraIMC\CalculadoraIMC\obj\Debug\net6.0-windows\ref\CalculadoraIMC.dll
