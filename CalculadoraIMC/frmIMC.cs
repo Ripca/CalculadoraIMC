@@ -2,9 +2,9 @@ using System.Data;
 
 namespace CalculadoraIMC
 {
-    public partial class Form1 : Form
+    public partial class frmIMC : Form
     {
-        public Form1()
+        public frmIMC()
         {
             InitializeComponent();
         }

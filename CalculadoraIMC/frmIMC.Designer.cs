@@ -1,6 +1,6 @@
 ﻿namespace CalculadoraIMC
 {
-    partial class Form1
+    partial class frmIMC
     {
         /// <summary>
         ///  Required designer variable.
@@ -121,11 +121,11 @@
             this.lblResultado.Size = new System.Drawing.Size(0, 15);
             this.lblResultado.TabIndex = 8;
             // 
-            // Form1
+            // frmIMC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(506, 392);
+            this.ClientSize = new System.Drawing.Size(506, 400);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.dgvIMC);
             this.Controls.Add(this.ptbImage);
@@ -135,7 +135,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
-            this.Name = "Form1";
+            this.Name = "frmIMC";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.ptbImage)).EndInit();
